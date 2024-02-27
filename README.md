@@ -4,7 +4,7 @@
 
 ## Contact
 
-💙If you'd like, you can visit my creative Instagram [@LuciaDigital] ()
+💙If you'd like, you can visit my creative Instagram [@Estevez.M.Lucia](https://www.instagram.com/estevez.m.lucia/)
 
 🩷If you wish, you can contact me through my LinkedIn [Maria Lucia Estevez](https://www.linkedin.com/in/maria-lucia-estevez-49b438266/?originalSubdomain=ar)
 
