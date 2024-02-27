@@ -10,14 +10,14 @@ My name is Lucia, I hail from Argentina, and I'm currently studying art and digi
 
 ### Skills
 
-- ⭐Projects in Adobe Illustrator.
+⭐Projects in Adobe Illustrator.
 
-- ⭐Projects in Adobe Photoshop.
+⭐Projects in Adobe Photoshop.
 
-- ⭐Projects in Visual Studio Code, using HTML, CSS, Bootstrap, and AOS.
+⭐Projects in Visual Studio Code, using HTML, CSS, Bootstrap, and AOS.
 
 ### Courses
-- 📓Web Development - CoderHouse (2023)
+📓Web Development - CoderHouse (2023)
 
-- 📓3D Design - CoderHouse (Current)
+📓3D Design - CoderHouse (Current)
 -->
