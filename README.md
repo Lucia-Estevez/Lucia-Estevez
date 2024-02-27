@@ -20,4 +20,5 @@ My name is Lucia, I hail from Argentina, and I'm currently studying art and digi
 📓Web Development - CoderHouse (2023)
 
 📓3D Design - CoderHouse (Current)
--->
+
+🌸 I hope you enjoy my projects
