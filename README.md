@@ -1,6 +1,6 @@
 # Hi 👋
 
-My name is Lucia, I hail from Argentina, and I'm currently studying art and digital design🎨
+🎨My name is Lucia, I hail from Argentina, and I'm currently studying art and digital design.
 
 ## Contact
 
