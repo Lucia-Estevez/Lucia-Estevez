@@ -4,9 +4,8 @@
 
 ## Contact
 
-💙If you'd like, you can visit my creative Instagram [@Estevez.M.Lucia](https://www.instagram.com/estevez.m.lucia/)
-
 🩷If you wish, you can contact me through my LinkedIn [Maria Lucia Estevez](https://www.linkedin.com/in/maria-lucia-estevez-49b438266/?originalSubdomain=ar)
+
 
 ### Skills
 
@@ -16,9 +15,13 @@
 
 ⭐Projects in Visual Studio Code, using HTML, CSS, Bootstrap, and AOS.
 
+⭐Projects in Unity.
+
 ### Courses
 📓Web Development - CoderHouse (2023)
 
-📓3D Design - CoderHouse (Current)
+📓3D Design - CoderHouse (2023)
+
+📓Social Media Design -CoderHouse (2024)
 
 ### 🌸 I hope you enjoy my projects
